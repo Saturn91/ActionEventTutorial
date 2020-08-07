@@ -1,0 +1,1756 @@
+fileFormatVersion: 2
+guid: 2ceb972820bfb084b81ae26ff59ad821
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2175233967382020238
+    second: RogueLikeMonsters_0
+  - first:
+      213: 6076090434475979215
+    second: RogueLikeMonsters_1
+  - first:
+      213: -4438852171743382469
+    second: RogueLikeMonsters_2
+  - first:
+      213: 3774374222290044513
+    second: RogueLikeMonsters_3
+  - first:
+      213: -6271518362687567223
+    second: RogueLikeMonsters_4
+  - first:
+      213: 6475294098018619564
+    second: RogueLikeMonsters_5
+  - first:
+      213: -8428745078654309760
+    second: RogueLikeMonsters_6
+  - first:
+      213: 8346497887300632422
+    second: RogueLikeMonsters_7
+  - first:
+      213: 3585825378983202824
+    second: RogueLikeMonsters_8
+  - first:
+      213: 662766828726403390
+    second: RogueLikeMonsters_9
+  - first:
+      213: -1337438863061341819
+    second: RogueLikeMonsters_10
+  - first:
+      213: 5008959638570922313
+    second: RogueLikeMonsters_11
+  - first:
+      213: -3956847539958589645
+    second: RogueLikeMonsters_12
+  - first:
+      213: -1725998791878598655
+    second: RogueLikeMonsters_13
+  - first:
+      213: -6985853723426035503
+    second: RogueLikeMonsters_14
+  - first:
+      213: 2519545254518304780
+    second: RogueLikeMonsters_15
+  - first:
+      213: 3516304979218271058
+    second: RogueLikeMonsters_16
+  - first:
+      213: -621541969493096910
+    second: RogueLikeMonsters_17
+  - first:
+      213: -2703466230884222455
+    second: RogueLikeMonsters_18
+  - first:
+      213: -9018516282319849668
+    second: RogueLikeMonsters_19
+  - first:
+      213: -8761701261663230655
+    second: RogueLikeMonsters_20
+  - first:
+      213: -677531358432904819
+    second: RogueLikeMonsters_21
+  - first:
+      213: 3898073632850641358
+    second: RogueLikeMonsters_22
+  - first:
+      213: -7199349973934478553
+    second: RogueLikeMonsters_23
+  - first:
+      213: 7695424173487682063
+    second: RogueLikeMonsters_24
+  - first:
+      213: -8218917731388152126
+    second: RogueLikeMonsters_25
+  - first:
+      213: 8951596783959935929
+    second: RogueLikeMonsters_26
+  - first:
+      213: -7814881163695243381
+    second: RogueLikeMonsters_27
+  - first:
+      213: -5795753249235943581
+    second: RogueLikeMonsters_28
+  - first:
+      213: -4294851965273113574
+    second: RogueLikeMonsters_29
+  - first:
+      213: -5711825098114852772
+    second: RogueLikeMonsters_30
+  - first:
+      213: -298714947963051664
+    second: RogueLikeMonsters_31
+  - first:
+      213: 2524602032004841715
+    second: RogueLikeMonsters_32
+  - first:
+      213: -4501788810652751148
+    second: RogueLikeMonsters_33
+  - first:
+      213: 9079918253979090289
+    second: RogueLikeMonsters_34
+  - first:
+      213: 6137324962020326739
+    second: RogueLikeMonsters_35
+  - first:
+      213: -7842652137375337799
+    second: RogueLikeMonsters_36
+  - first:
+      213: -5956637058097845003
+    second: RogueLikeMonsters_37
+  - first:
+      213: -8591011173699407030
+    second: RogueLikeMonsters_38
+  - first:
+      213: -7720713979293117207
+    second: RogueLikeMonsters_39
+  - first:
+      213: 3759960090193975230
+    second: RogueLikeMonsters_40
+  - first:
+      213: 6507341137359953772
+    second: RogueLikeMonsters_41
+  - first:
+      213: -3096363589443892992
+    second: RogueLikeMonsters_42
+  - first:
+      213: -208860973535073738
+    second: RogueLikeMonsters_43
+  - first:
+      213: -3285261746792560074
+    second: RogueLikeMonsters_44
+  - first:
+      213: -617271141126154714
+    second: RogueLikeMonsters_45
+  - first:
+      213: -5933899044575281606
+    second: RogueLikeMonsters_46
+  - first:
+      213: 627755550179466264
+    second: RogueLikeMonsters_47
+  - first:
+      213: -8109608380767852250
+    second: RogueLikeMonsters_48
+  - first:
+      213: -583375420063960433
+    second: RogueLikeMonsters_49
+  - first:
+      213: -3275329002807230437
+    second: RogueLikeMonsters_50
+  - first:
+      213: -1823756961953119101
+    second: RogueLikeMonsters_51
+  - first:
+      213: 88134426769402468
+    second: RogueLikeMonsters_52
+  - first:
+      213: -2895365160196771552
+    second: RogueLikeMonsters_53
+  - first:
+      213: 2174379256479532770
+    second: RogueLikeMonsters_54
+  - first:
+      213: -143842564124903487
+    second: RogueLikeMonsters_55
+  - first:
+      213: 7869729846838755198
+    second: RogueLikeMonsters_56
+  - first:
+      213: 8453966208156193513
+    second: RogueLikeMonsters_57
+  - first:
+      213: 614688459328183407
+    second: RogueLikeMonsters_58
+  - first:
+      213: -1617540939366907732
+    second: RogueLikeMonsters_59
+  - first:
+      213: 4427569059848329418
+    second: RogueLikeMonsters_60
+  - first:
+      213: 7232751912933008480
+    second: RogueLikeMonsters_61
+  - first:
+      213: -1734943903702660927
+    second: RogueLikeMonsters_62
+  - first:
+      213: 4602093506871212213
+    second: RogueLikeMonsters_63
+  - first:
+      213: 1084514623402792542
+    second: RogueLikeMonsters_64
+  - first:
+      213: 1704000013525420804
+    second: RogueLikeMonsters_65
+  - first:
+      213: -8117269006801255929
+    second: RogueLikeMonsters_66
+  - first:
+      213: -6588846148163043513
+    second: RogueLikeMonsters_67
+  - first:
+      213: 596453274672363152
+    second: RogueLikeMonsters_68
+  - first:
+      213: 8663297297920676533
+    second: RogueLikeMonsters_69
+  - first:
+      213: 8718906689489287344
+    second: RogueLikeMonsters_70
+  - first:
+      213: 5048312157459498332
+    second: RogueLikeMonsters_71
+  - first:
+      213: -7770310540868678394
+    second: RogueLikeMonsters_72
+  - first:
+      213: -3363885845568473687
+    second: RogueLikeMonsters_73
+  - first:
+      213: -1299701805897641977
+    second: RogueLikeMonsters_74
+  - first:
+      213: 7720135764412918633
+    second: RogueLikeMonsters_75
+  - first:
+      213: -6282436873186417783
+    second: RogueLikeMonsters_76
+  - first:
+      213: -7629770449142814409
+    second: RogueLikeMonsters_77
+  - first:
+      213: 8221728645062020624
+    second: RogueLikeMonsters_78
+  - first:
+      213: 9084960633506928377
+    second: RogueLikeMonsters_79
+  - first:
+      213: 1738833755173112803
+    second: RogueLikeMonsters_80
+  - first:
+      213: 5818516100825876354
+    second: RogueLikeMonsters_81
+  - first:
+      213: 1545130429523363084
+    second: RogueLikeMonsters_82
+  - first:
+      213: 8684457101267719025
+    second: RogueLikeMonsters_83
+  - first:
+      213: -7069593756562216433
+    second: RogueLikeMonsters_84
+  - first:
+      213: 918981225006302231
+    second: RogueLikeMonsters_85
+  - first:
+      213: 946631634094794710
+    second: RogueLikeMonsters_86
+  - first:
+      213: 3061160815850885204
+    second: RogueLikeMonsters_87
+  - first:
+      213: -3637241974734319474
+    second: RogueLikeMonsters_88
+  - first:
+      213: 3065578530470131220
+    second: RogueLikeMonsters_89
+  - first:
+      213: 913756722869144601
+    second: RogueLikeMonsters_90
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RogueLikeMonsters_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804b29b4cbff2e10800000000000000
+      internalID: 2175233967382020238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f612ce0c925450800000000000000
+      internalID: 6076090434475979215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34b3c4c7770662c0800000000000000
+      internalID: -4438852171743382469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1664df09b55416430800000000000000
+      internalID: 3774374222290044513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a0bade64717f8a0800000000000000
+      internalID: -6271518362687567223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca05590bcaddcd950800000000000000
+      internalID: 6475294098018619564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aec742205170b80800000000000000
+      internalID: -8428745078654309760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f3a1b5b97b4d370800000000000000
+      internalID: 8346497887300632422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800dfd40f2963c130800000000000000
+      internalID: 3585825378983202824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3146235bee923900800000000000000
+      internalID: 662766828726403390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5892d6aa076707de0800000000000000
+      internalID: -1337438863061341819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f94fa046638540800000000000000
+      internalID: 5008959638570922313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d36e60247619c0800000000000000
+      internalID: -3956847539958589645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100a2575e350c08e0800000000000000
+      internalID: -1725998791878598655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8e95a1d034d0f90800000000000000
+      internalID: -6985853723426035503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b5135f0937f220800000000000000
+      internalID: 2519545254518304780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b0e389fbc6cc030800000000000000
+      internalID: 3516304979218271058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2360e5f2fd6df57f0800000000000000
+      internalID: -621541969493096910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ab1ed59cb5b7ad0800000000000000
+      internalID: -2703466230884222455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37bf3f293bc7d280800000000000000
+      internalID: -9018516282319849668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145a87ebf1f286680800000000000000
+      internalID: -8761701261663230655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d893b68b1dce896f0800000000000000
+      internalID: -677531358432904819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10162f05db81630800000000000000
+      internalID: 3898073632850641358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72beaeda755c61c90800000000000000
+      internalID: -7199349973934478553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ffa08383abca60800000000000000
+      internalID: 7695424173487682063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c623767ed980fd80800000000000000
+      internalID: -8218917731388152126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb0670f8d57a3c70800000000000000
+      internalID: 8951596783959935929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbd049cf6fb8390800000000000000
+      internalID: -7814881163695243381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fb9758029519fa0800000000000000
+      internalID: -5795753249235943581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf10784ee9564c0800000000000000
+      internalID: -4294851965273113574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5814b7f5558bb0b0800000000000000
+      internalID: -5711825098114852772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07120956650cadbf0800000000000000
+      internalID: -298714947963051664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0c0e41c20390320800000000000000
+      internalID: 2524602032004841715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dae63f9dee6681c0800000000000000
+      internalID: -4501788810652751148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d32066b89520e70800000000000000
+      internalID: 9079918253979090289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dfb5839882c2550800000000000000
+      internalID: 6137324962020326739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2f8c6ee6d492390800000000000000
+      internalID: -7842652137375337799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc6620c726c55da0800000000000000
+      internalID: -5956637058097845003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433c3acad896c880800000000000000
+      internalID: -8591011173699407030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e457dbba838ad490800000000000000
+      internalID: -7720713979293117207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb758a9e7cf0e2430800000000000000
+      internalID: 3759960090193975230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f50ac7948be4a50800000000000000
+      internalID: 6507341137359953772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0094ebb78b18705d0800000000000000
+      internalID: -3096363589443892992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_43
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aeff81d0af91df0800000000000000
+      internalID: -208860973535073738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a004ce8d76862d0800000000000000
+      internalID: -3285261746792560074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265317ea230f67f0800000000000000
+      internalID: -617271141126154714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_46
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7f03124e86ada0800000000000000
+      internalID: -5933899044575281606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1a3ec85c36b800800000000000000
+      internalID: 627755550179466264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292dcce422e47f80800000000000000
+      internalID: -8109608380767852250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b464752f67e7f0800000000000000
+      internalID: -583375420063960433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10042910a1bb82d0800000000000000
+      internalID: -3275329002807230437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384832ea4b6b0b6e0800000000000000
+      internalID: -1823756961953119101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa2105bcd193100800000000000000
+      internalID: 88134426769402468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_53
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021fd632ab891d7d0800000000000000
+      internalID: -2895365160196771552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6c075d962fc2e10800000000000000
+      internalID: 2174379256479532770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f0c533f7f00ef0800000000000000
+      internalID: -143842564124903487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ffc1f9995e63d60800000000000000
+      internalID: 7869729846838755198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_57
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e25e4ca975825570800000000000000
+      internalID: 8453966208156193513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd9c1a5efc78800800000000000000
+      internalID: 614688459328183407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca04263f5175d89e0800000000000000
+      internalID: -1617540939366907732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac815c60a92e17d30800000000000000
+      internalID: 4427569059848329418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06426e64b85ef5460800000000000000
+      internalID: 7232751912933008480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_62
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c29236bd3ce7e0800000000000000
+      internalID: -1734943903702660927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueLikeMonsters_63
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8b03c59abeddf30800000000000000
+      internalID: 4602093506871212213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
